@@ -5,6 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(c___learning
 
-
-        Aula13_operadoresLogicos.cpp
+        Aula20_funcoes.cpp
 )
