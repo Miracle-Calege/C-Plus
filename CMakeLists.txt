@@ -4,6 +4,5 @@ project(c___learning)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(c___learning
-
-        Aula20_funcoes.cpp
+        Aula28_colocarArraynumaFunction.cpp
 )
